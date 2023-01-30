@@ -1,4 +1,4 @@
-# java_polimorfis5-mo
+# java_polimorfismo
 Aula Alura Java Polimorfismo: entenda herança e interfaces
 
 # java-entendendo-orienta-o-objetos
